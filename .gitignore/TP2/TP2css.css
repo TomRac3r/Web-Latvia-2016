@@ -1,0 +1,58 @@
+.case1
+{
+background-color: blue;
+margin:auto;
+font-family: "Times New Roman", Times, serif;
+float: auto;
+}
+.case1:hover{background-color:yellow;}
+
+
+
+
+.case2
+{
+background-color: green;
+margin:auto;
+font-family: "Times New Roman", Times, serif;
+float: auto;
+}
+.case2:hover{background-color:yellow;}
+
+
+
+
+
+.case3
+{
+background-color: navy;
+margin:auto;
+font-family: "Times New Roman", Times, serif;
+float: auto;
+}
+.case3:hover{background-color:yellow;}
+
+
+
+
+tbody tr:nth-child(1)
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+tbody tr:nth-child(2)
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+tbody tr:nth-child(3)
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+a { 
+text-decoration: none; 
+} 
